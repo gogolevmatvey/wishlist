@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Wishlist Organizer</string>
+    <string name="add_wish">Добавить желание</string>
+    <string name="edit_wish">Редактировать желание</string>
+    <string name="title_hint">Название</string>
+    <string name="description_hint">Описание</string>
+    <string name="price_hint">Цена</string>
+    <string name="store_url_hint">Ссылка на магазин</string>
+    <string name="select_image">Выбрать изображение</string>
+    <string name="save">Сохранить</string>
+    <string name="cancel">Отмена</string>
+    <string name="delete">Удалить</string>
+    <string name="edit">Редактировать</string>
+    <string name="no_category">Без категории</string>
+    <string name="loading">Загрузка...</string>
+    <string name="error_network">Ошибка сети</string>
+    <string name="error_loading">Ошибка загрузки</string>
+    <string name="confirm_delete">Удалить \"%s\"?</string>
+    <string name="delete_success">Удалено успешно</string>
+    <string name="delete_error">Ошибка удаления</string>
+    <string name="save_success">Сохранено успешно</string>
+    <string name="save_error">Ошибка сохранения</string>
+    <string name="select_photo">Выбрать фото</string>
+    <string name="take_photo">Сделать фото</string>
+    <string name="cancel_select">Отмена</string>
+    <string name="filter">Фильтр</string>
+    <string name="stats">Статистика</string>
+    <string name="settings">Настройки</string>
+    <string name="no_internet">Нет подключения к интернету</string>
+    <string name="retry">Повторить</string>
+    <string name="empty_wishlist">Список желаний пуст\nДобавьте первое желание!</string>
+
+    <!-- Массивы -->
+    <string-array name="categories_array">
+        <item>Электроника</item>
+        <item>Одежда</item>
+        <item>Книги</item>
+        <item>Для дома</item>
+        <item>Автотовары</item>
+        <item>Спорт</item>
+        <item>Красота</item>
+        <item>Другое</item>
+    </string-array>
+
+    <string-array name="priority_array">
+        <item>Низкий</item>
+        <item>Средний</item>
+        <item>Высокий</item>
+    </string-array>
+
+    <string-array name="status_array">
+        <item>Желаю</item>
+        <item>Куплено</item>
+        <item>Отменено</item>
+    </string-array>
+
+    <!-- Фильтры -->
+    <string-array name="filter_options">
+        <item>Все</item>
+        <item>Только желания</item>
+        <item>Купленные</item>
+        <item>Отмененные</item>
+    </string-array>
+</resources>
