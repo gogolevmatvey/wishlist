@@ -1,0 +1,5 @@
+# Keep Unix shell scripts executable on Unix-like systems.
+* text=auto eol=lf
+
+# The Windows Gradle launcher is consumed by cmd.exe.
+*.bat text eol=crlf
